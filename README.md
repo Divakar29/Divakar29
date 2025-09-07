@@ -1,6 +1,7 @@
 # Hi there, I'm Divakar 👋
 
-**Data Engineer** | Data Modeling • Azure Databricks • Azure Data Factory • GIT • CI/CD  
+**Data Engineer** | Python • SQL • Data Modeling • Data Warehousing • Azure Databricks • Azure Data Factory • GIT • CI/CD
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/divakar-v29/)
 
 ---
